@@ -1,1 +1,1 @@
-# Tipster-Hub
+# Tipster Hub
