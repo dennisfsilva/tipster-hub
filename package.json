@@ -1,0 +1,19 @@
+{
+  "name": "tipster-hub",
+  "version": "1.0.0",
+  "description": "soccer statistics platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botclimber/tipster-hub.git"
+  },
+  "author": "botclimber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botclimber/tipster-hub/issues"
+  },
+  "homepage": "https://github.com/botclimber/tipster-hub#readme"
+}
